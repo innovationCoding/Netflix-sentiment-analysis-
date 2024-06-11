@@ -4,6 +4,7 @@
 'Netflix sentiment analysis deep learning model advancement'
 
 
+
 한양대학교 산업융합학부 정보공학전공   
 >김윤구(2021092342 / dbsrn2520@gmail.com)   
 >양인호(2021074220 / )   
