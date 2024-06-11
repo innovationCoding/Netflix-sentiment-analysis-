@@ -1,4 +1,4 @@
-# Netflix-sentiment-analysis-
+# Netflix-sentiment-analysis
 
 2024-1 [인공지능1(교수: 정철현)] 기말 프로젝트
 'Netflix sentiment analysis deep learning model advancement'
