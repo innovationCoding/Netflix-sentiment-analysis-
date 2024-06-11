@@ -1,6 +1,6 @@
 # Netflix-sentiment-analysis
 
-2024-1 [인공지능1(교수: 정철현)] 기말 프로젝트
+2024-1 [인공지능1(교수: 정철현)] 기말 프로젝트 \n
 'Netflix sentiment analysis deep learning model advancement'
 
 한양대학교 산업융합학부 정보공학전공
