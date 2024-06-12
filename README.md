@@ -10,6 +10,3 @@
 >양인호(2021074220 / inhotech16@naver.com)   
 >최서연(2021049934 / cstyd1016@naver.com)   
 >황선화(2021048422 / sunhwa991015@hanyang.ac.kr)   
-
-
-aimodel은 
